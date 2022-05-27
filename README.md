@@ -35,8 +35,6 @@ Project is: _in progress_
 
 
 ## Room for Improvement
-
-Room for improvement:
 - High score
 
 
